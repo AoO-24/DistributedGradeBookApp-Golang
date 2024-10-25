@@ -1,0 +1,46 @@
+2020/12/28 11:34:39 2020/12/28 11:34:39 test
+
+2020/12/28 11:36:35 http: Server closed
+
+2020/12/28 11:36:37 test
+
+2020/12/28 11:40:42 TeacherPortaltest
+
+2020/12/28 11:42:49 [TeacherPortal] - test
+
+2020/12/28 11:43:01 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:18:55 [TeacherPortal] - Error retrieving students:  json: cannot unmarshal number into Go value of type grades.Students
+
+2020/12/31 11:23:23 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:24:12 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:26:04 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:32:15 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:33:25 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:34:26 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:39:52 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:52:06 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:52:15 [TeacherPortal] - Failed to parse score:  strconv.ParseFloat: parsing "": invalid syntax
+
+2020/12/31 11:52:39 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:52:46 [TeacherPortal] - Failed to save grade to Grading Service. Status:  201
+
+2020/12/31 11:53:27 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:58:01 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:58:40 [TeacherPortal] - http: Server closed
+
+2020/12/31 11:58:55 [TeacherPortal] - http: Server closed
+
+2021/02/04 11:27:41 [TeacherPortal] - http: Server closed
+
